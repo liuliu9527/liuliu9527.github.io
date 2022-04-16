@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuliu9527.github.io</id>
     <title>Liu liu</title>
-    <updated>2022-04-16T06:27:44.687Z</updated>
+    <updated>2022-04-16T06:32:01.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuliu9527.github.io"/>
     <link rel="self" href="https://liuliu9527.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://liuliu9527.github.io/images/avatar.png</logo>
     <icon>https://liuliu9527.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Liu liu</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎么来了]]></title>
+        <id>https://liuliu9527.github.io/post/ni-zen-me-lai-liao/</id>
+        <link href="https://liuliu9527.github.io/post/ni-zen-me-lai-liao/">
+        </link>
+        <updated>2022-04-16T06:31:19.000Z</updated>
+        <content type="html"><![CDATA[<p>可是这里什么都看不到哎。好伤心....</p>
+]]></content>
+    </entry>
 </feed>
